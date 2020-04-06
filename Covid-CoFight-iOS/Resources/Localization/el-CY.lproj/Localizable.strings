@@ -1,0 +1,56 @@
+/* 
+  Localizable.strings
+  Covid-CoFight-iOS
+
+  Created by "" on 28/03/2020.
+  Copyright © 2020 "". All rights reserved.
+*/
+
+"Stop the spread of COVID-19 in Cyprus"="Σταματήστε την εξάπλωση του COVID-19 στην Κύπρο";
+"Why Use CovidGuard?"="Γιατί να χρησιμοποιήσετε το CovidGuard?";
+"By using the app you can contribute to a faster detection of COVID-19 cases.\n\nIf you come in close contact with a confirmed case, we can contact you and others much faster, thus stopping the spread of the virus."="Με το να χρησιμοποιείτε την εφαρμογή, συνεισφέρετε στην γρηγορότερη ιχνηλάτηση των κρουσμάτων COVID-19.\n\n Εάν ήρθατε σε κοντινή επαφή με επιβεβαιωμένο κρούσμα, θα ειδοποιήσουμε εσάς και τους υπόλοιπους γρηγορότερα και θα σταματήσουμε την εξάπλωση του ιου.";
+"How It Works"="Πως δουλέυει";
+"Using only Bluetooth, CovidGuard identifies nearby phones that have the app installed.\n\nIt records the IDs of phones you come in close proximity (less than 4 meters), and a timestamp.\n\nIf necessary, this information can be used to identify if you had any close contacts and their duration."="Χρησιμοποιώντας μόνο Bluetooth, το CovidGuard αναγνωρίζει τις κοντινές συσκευές οι οποίες έχουν την εφαρμογή εγκατεστημένη.\n\n Καταγράφει τον μοναδικό αριθμό των κοντινών συσκευών (λιγότερο απο 4 μέτρα) και την ημερομηνία επαφής.\n\n Εάν καταστεί αναγκαίο, αυτές οι πληροφορίες θα χρησιμοποιθούν για την ιχνηλάτηση των κοντινών σας επαφών.";
+"Show me how"="Δείξε μου πως";
+"Location Privacy"="Απόρρητο Τοποθεσίας";
+"The app does NOT track your location or your contacts.\n\nData is stored locally on your phone and can’t be accessed unless you had a close contact with a confirmed case."="Η εφαρμογή ΔΕΝ καταγράφει την τοποθεσία σας ή τις (τηλεφωνικές)επαφές σας.\n\nΤα δεδομένα αποθηκέυονται στο κινητό τηλέφωνο και δεν είναι προσβάσιμα εκτός και αν είχατε κοντινή επαφή με επιβεβαιωμένο κρόυσμα.";
+"Phone Number Privacy"="Απόρρητο τηλεφωνικού αριθμού";
+"Your phone number stays private. Your number is paired with a random ID. That ID is exchanged between phones, not your actual number."="Ο τηλεφωνικός σας αριθμός παραμένει απόρρητος. Ο αριθμός σας συνδεέται με ένα τυχαίο μοναδικό αριθμό. Αυτός ο μοναδικός αριθμός ανταλλασεται μεταξύ των συσκευών και όχι ο τηλεφωνικός σας αριθμός.";
+"Battery Consumption"="Κατανάλωση μπαταρίας";
+"The app was designed to keep battery consumption to a minimum. Make sure you have the app running, especially when leaving your house for best results."="Η εφαρμογή σχεδιάστηκε ώστε να κρατάει την κατανάλωση μπαταρίας σε χαμηλά επίπεδα. Σιγουρευτείτε ότι η εφαρμογή τρέχει, ειδικά όταν αποχωρείτε από το σπίτι.";
+"Close Contact"="Κοντινές επαφές";
+"If you came in close contact with a CovidGuard user of a confirmed case, you will be contacted directly by SMS or by phone. Your permission might be required to access your stored app data."="Εάν ήρθατε σε κοντινή επαφή με επιβεβαιωμένο κρόυσμα, θα σας ειδοποιήσουμε με μήνυμα SMS ή τηλεφωνικώς.";
+"Next"="Επόμενο";
+"Enter your phone number to get started"="Εισάγετε τον αριθμό του κινητού σας τηλεφώνου για να ξεκινήσετε";
+"Done"="Τέλος";
+"You will receive an SMS with a verification code"="Θα λάβετε μήνυμα SMS με τον κωδικό επαλήθευσης";
+"Enter the code sent to"="Εισάγετε τον κωδικό που σας έχει σταλεί";
+"Wrong number?"="Λάθος αριθμός;";
+"Invalid code. Please try again"="Λάθος αριθμός. Δοκιμάστε ξανά";
+"Send a new code now"="Αποστολή νέου κωδικού";
+"Upload"="Ανέβασμα";
+"Settings"="Ρυθμίσεις";
+"Enabled"="Ενεργοποιημένο";
+"Disabled"="Απενεργοποιημένο";
+"Important: The app must be left open to continue scanning (iPhone limitation)"="Σημαντικό: Η εφαρμογή πρέπει να μέινει ανοικτή για να λειτουργεί σωστά";
+"Enable Battery Saver"="Λειτουργία χαμηλής κατανάλωσης";
+"Share the app to keep your\nfamily & friends safe"="Μοιραστείτε την εφαρμογή για κρατήσετε \nτην οικογένεια και τους φίλους σας ασφαλή";
+"Battery Saver Mode is enabled.\nTo exit: double-tap anywhere on the screen"="Ενεργοποιημένη λειτουργία χαμηλής κατανάλωσης.\nΓια έξοδο: Κάντε διπλό πάτημα οπουδήποτε στην οθόνη";
+"Bluetooth is disabled. \nPlease enable it from the "="Το Bluetooth είναι απενεργοποιημένο. \nΠαρακαλώ ενεργοποιήστε το απο τις ";
+"iPhone Settings"="ρυθμίσεις";
+"Battery Saver Will Be Enabled"="Θα ενεργοποιηθεί η λειτουργία χαμηλής κατανάλωσης";
+"The screen will become dark with low brightness to preserve battery. It will also LOCK to prevent accidental taps. To exit Battery Saver Mode, double-tap anywhere on the screen"="Η οθόνη θα γίνει σκούρα με χαμηλή φωτεινότητα για εξοικονόμηση μπαταρίας. Επίσης θα κλειδώσει ούτως ώστε να αποφευχθούν καταλάθος πατήματα. Για να βγείτε απο την λειτουργία χαμηλής καταναλώσης κάντε διπλό πάτημα οπουδήποτε στην οθόνη";
+"Not now"="Άκυρο";
+"Enable now"="Ενεργοποίηση";
+"Upload your data only after getting notified via SMS/call of a COVID-19 close contact. Are you sure?"="Ανεβάστε τα δεδομένα μόνο εαν έχετε ειδοποιηθεί μέσω μηνύματος/τηλεφώνου για επαφή με επιβεβαιωμένο κρούσμα. Είστε σίγουροι;";
+"Yes, upload my data"="Ναι";
+"Cancel"="Άκυρο";
+"Settings"="Ρυθμίσεις";
+"Share CovidGuard"="Μοιραστείτε το CovidGuard";
+"Upload My Data"="Ανέβασμα δεδομένων";
+"Terms & Conditions"="Όροι & Προϋποθέσεις";
+"Credits"="Credits";
+"Logout & Delete All Data"="Αποσύνδεση & Διαγραφή δεδομένων";
+"Successfull submission!"="Επιτυχής υποβολή!";
+"Something went wrong. Please try again!"="Προέκυψε απροσδιόριστο σφάλμα. Ξαναδοκιμάστε σε λίγο!";
+"Select language"="Επιλέξτε γλώσσα";

@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (5.0.0)
+  - KeychainAccess (4.1.0)
+  - Localize-Swift (2.0.0)
+  - SVProgressHUD (2.2.6)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-rc.3)
+  - KeychainAccess
+  - Localize-Swift (~> 2.0)
+  - SVProgressHUD (from `https://github.com/SVProgressHUD/SVProgressHUD.git`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - KeychainAccess
+    - Localize-Swift
+
+EXTERNAL SOURCES:
+  SVProgressHUD:
+    :git: https://github.com/SVProgressHUD/SVProgressHUD.git
+
+CHECKOUT OPTIONS:
+  SVProgressHUD:
+    :commit: 4fdf3fdc8703fd9915dae33fc1363c604a06b24e
+    :git: https://github.com/SVProgressHUD/SVProgressHUD.git
+
+SPEC CHECKSUMS:
+  Alamofire: 58ff2bfb8daaacaa233d5c36e37b10a5248f59b1
+  KeychainAccess: 445e28864fe6d3458b41fa211bcdc39890e8bd5a
+  Localize-Swift: c798ec9286494866f7068f85f7c71283ac5bdab4
+  SVProgressHUD: 6ed134667e9ebb2f33679e8273cd48fd3fa349e5
+
+PODFILE CHECKSUM: ee00aa2bee8adc1600e982b822ea3a59cfb275c2
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,56 @@
+/* 
+  Localizable.strings
+  Covid-CoFight-iOS
+
+  Created by "" on 28/03/2020.
+  Copyright © 2020 "". All rights reserved.
+*/
+
+"Stop the spread of COVID-19 in Cyprus"="Stop the spread of COVID-19 in Cyprus";
+"Why Use CovidGuard?"="Why Use CovidGuard?";
+"By using the app you can contribute to a faster detection of COVID-19 cases.\n\nIf you come in close contact with a confirmed case, we can contact you and others much faster, thus stopping the spread of the virus."="By using the app you can contribute to a faster detection of COVID-19 cases.\n\nIf you come in close contact with a confirmed case, we can contact you and others much faster, thus stopping the spread of the virus.";
+"How It Works"="How It Works";
+"Using only Bluetooth, CovidGuard identifies nearby phones that have the app installed.\n\nIt records the IDs of phones you come in close proximity (less than 4 meters), and a timestamp.\n\nIf necessary, this information can be used to identify if you had any close contacts and their duration."="Using only Bluetooth, CovidGuard identifies nearby phones that have the app installed.\n\nIt records the IDs of phones you come in close proximity (less than 4 meters), and a timestamp.\n\nIf necessary, this information can be used to identify if you had any close contacts and their duration.";
+"Show me how"="Show me how";
+"Location Privacy"="Location Privacy";
+"The app does NOT track your location or your contacts.\n\nData is stored locally on your phone and can’t be accessed unless you had a close contact with a confirmed case."="The app does NOT track your location or your contacts.\n\nData is stored locally on your phone and can’t be accessed unless you had a close contact with a confirmed case.";
+"Phone Number Privacy"="Phone Number Privacy";
+"Your phone number stays private. Your number is paired with a random ID. That ID is exchanged between phones, not your actual number."="Your phone number stays private. Your number is paired with a random ID. That ID is exchanged between phones, not your actual number.";
+"Battery Consumption"="Battery Consumption";
+"The app was designed to keep battery consumption to a minimum. Make sure you have the app running, especially when leaving your house for best results."="The app was designed to keep battery consumption to a minimum. Make sure you have the app running, especially when leaving your house for best results.";
+"Close Contact"="Close Contact";
+"If you came in close contact with a CovidGuard user of a confirmed case, you will be contacted directly by SMS or by phone. Your permission might be required to access your stored app data."="If you came in close contact with a CovidGuard user of a confirmed case, you will be contacted directly by SMS or by phone. Your permission might be required to access your stored app data.";
+"Next"="Next";
+"Enter your phone number to get started"="Enter your phone number to get started";
+"Done"="Done";
+"You will receive an SMS with a verification code"="You will receive an SMS with a verification code";
+"Enter the code sent to"="Enter the code sent to";
+"Wrong number?"="Wrong number?";
+"Invalid code. Please try again"="Invalid code. Please try again";
+"Send a new code now"="Send a new code now";
+"Upload"="Upload";
+"Settings"="Settings";
+"Scanning ON"="Scanning ON";
+"Scanning OFF"="Scanning OFF";
+"Important: The app must be left open to continue scanning (iPhone limitation)"="Important: The app must be left open to continue scanning (iPhone limitation)";
+"Enable Battery Saver"="Enable Battery Saver";
+"Share the app to keep your\nfamily & friends safe"="Share the app to keep your\nfamily & friends safe";
+"Battery Saver Mode is enabled.\nTo exit: double-tap anywhere on the screen"="Battery Saver Mode is enabled.\nTo exit: double-tap anywhere on the screen";
+"Bluetooth is disabled. \nPlease enable it from the "="Bluetooth is disabled. \nPlease enable it from the ";
+"iPhone Settings"="iPhone Settings";
+"Battery Saver Will Be Enabled"="Battery Saver Will Be Enabled";
+"The screen will become dark with low brightness to preserve battery. It will also LOCK to prevent accidental taps. To exit Battery Saver Mode, double-tap anywhere on the screen"="The screen will become dark with low brightness to preserve battery. It will also LOCK to prevent accidental taps. To exit Battery Saver Mode, double-tap anywhere on the screen";
+"Not now"="Not now";
+"Enable now"="Enable now";
+"Upload your data only after getting notified via SMS/call of a COVID-19 close contact. Are you sure?"="Upload your data only after getting notified via SMS/call of a COVID-19 close contact. Are you sure?";
+"Yes, upload my data"="Yes, upload my data";
+"Cancel"="Cancel";
+"Settings"="Settings";
+"Share CovidGuard"="Share CovidGuard";
+"Upload My Data"="Upload My Data";
+"Terms & Conditions"="Terms & Conditions";
+"Credits"="Credits";
+"Logout & Delete All Data"="Logout & Delete All Data";
+"Successfull submission!"="Successfull submission!";
+"Something went wrong. Please try again!"="Something went wrong. Please try again!";
+"Select language"="Select language";

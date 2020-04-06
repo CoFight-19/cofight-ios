@@ -19,7 +19,7 @@ On iOS there is a limitation from Apple: iOS devices can't advertise their Servi
 Everything is stored on device's keychain for security reasons. Data older than 21 days are removed on app initialization.
 
 ## Localisation
-The app is avaible for English and Greek. If you need to support another language, just add the localisation, copy the **English** localisation and then translate it.
+The app is avaible in English and Greek. If you need to support another language, just add the localisation, copy the **English** localisation and then translate it.
 
 ## Caveats
 

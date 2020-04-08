@@ -1,3 +1,4 @@
+
 # CoFight-19 iOS client
 
 When a patient is tested positive for Covid-19 authorities need to track recent contact the patient made to warn or quarantine those contacts. CoFight-19 is a volunteering effort to create a complete (basic) stack for setting up a system for tracing contacts.
@@ -24,3 +25,19 @@ The app is avaible in English and Greek. If you need to support another language
 ## Caveats
 
 * BLE can record up to 10 meters. But closed contact for the virus spread is considered up to 4 meters.
+
+## Screenshots
+### Welcome
+![Welcome](https://i.imgur.com/MguIvsq.png)
+
+### Enter your telephone number
+![Enter your telephone number](https://i.imgur.com/bc2sqXM.png)
+
+### Verify your telephone number
+![Verify your telephone number](https://i.imgur.com/CG5jd6V.png)
+
+### Main View
+![Main View](https://i.imgur.com/VR1267c.png)
+
+### Battery save View
+![Battery save View](https://i.imgur.com/I7ppgKr.png)
